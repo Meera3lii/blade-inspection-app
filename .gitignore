@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Test files
+test_yolo.py
+test_report.py
+
+# Model weights (too large for GitHub)
+best.pt
+
+# Environment
+.env
